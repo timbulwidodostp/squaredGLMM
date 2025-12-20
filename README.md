@@ -1,6 +1,8 @@
 # squaredGLMM
 Pseudo-R-squared for Generalized Mixed-Effect models Use squaredGLMM (MuMIn) With (In) R Software
 
+https://www.youtube.com/watch?v=76JRTR_xz3I
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
